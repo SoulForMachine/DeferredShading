@@ -1,0 +1,8 @@
+
+WGL_ARB_extensions_string
+WGL_ARB_pixel_format
+WGL_ARB_pixel_format_float
+WGL_ARB_multisample
+WGL_EXT_swap_control
+WGL_EXT_framebuffer_sRGB
+WGL_ARB_create_context
